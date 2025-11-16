@@ -12,7 +12,7 @@ This repository contains the full woodworking plans for a custom arcade cabinet 
 These plans are provided for hobbyists, makers, and DIY builders who want to build their own arcade cabinet at home.
 
 ## 📺 Video Build
-[Watch the full build on YouTube]([https://www.youtube.com/watch?v=YOURVIDEOID](https://www.youtube.com/playlist?list=PL1MubmZXQuxjGN-ImJOcFGpqbETOqa_wx))
+[Watch the full build on YouTube](https://www.youtube.com/playlist?list=PL1MubmZXQuxjGN-ImJOcFGpqbETOqa_wx)
 
 
 ## License
