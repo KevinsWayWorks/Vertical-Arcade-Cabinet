@@ -11,19 +11,12 @@ Designed by Kevin’s Way Works (2025)
 This repository contains the full woodworking plans for a custom arcade cabinet designed and built by Kevin’s Way Works.
 These plans are provided for hobbyists, makers, and DIY builders who want to build their own arcade cabinet at home.
 
-Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)
-Copyright © 2025 Kevin's Way Works
 
-This work is licensed under the Creative Commons Attribution–NonCommercial 4.0 International License.
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format  
-- Adapt — remix, transform, and build upon the material  
+## License
+This project is licensed under the Creative Commons Attribution–NonCommercial 4.0 International License.
 
-Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-  Credit must be given as: “Design by Kevin's Way Works (2025)”.
-- NonCommercial — You may not use the material for commercial purposes.
-- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+You may use and modify these plans for personal, non-commercial use only.  
+Attribution: “Design by Kevin's Way Works (2025)”
 
-Full license text available at: https://creativecommons.org/licenses/by-nc/4.0/
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/
