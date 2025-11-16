@@ -11,7 +11,7 @@ Designed by Kevin’s Way Works (2025)
 This repository contains the full woodworking plans for a custom arcade cabinet designed and built by Kevin’s Way Works.
 These plans are provided for hobbyists, makers, and DIY builders who want to build their own arcade cabinet at home.
 
-## 📺 Video Build
+## 📺 Build Playlist
 [![Arcade Build Playlist](images/Cabinet.png)](https://www.youtube.com/playlist?list=PL1MubmZXQuxjGN-ImJOcFGpqbETOqa_wx)
 
 ## License
