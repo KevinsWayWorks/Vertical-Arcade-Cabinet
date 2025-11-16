@@ -13,7 +13,7 @@ These plans are provided for hobbyists, makers, and DIY builders who want to bui
 
 ## Plans
 
-[Download the PDF](Kevin's Way Works Vertical Arcade Cabinet Plans.pdf)
+[Download the PDF](Kevin%27s%20Way%20Works%20Vertical%20Arcade%20Cabinet%20Plans.pdf)
 
 ## 📺 Build Playlist
 [![Arcade Build Playlist](images/Cabinet.png)](https://www.youtube.com/playlist?list=PL1MubmZXQuxjGN-ImJOcFGpqbETOqa_wx)
